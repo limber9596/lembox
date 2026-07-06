@@ -233,3 +233,15 @@ Diseñado para crecer sin refactorizaciones grandes.
 ## 👨‍💻 Autor
 
 Limbert Emanuel Molina Intriago.
+
+---
+
+## 📄 Licencia
+
+**Copyright © 2026 Limbert Molina.**
+
+Todos los derechos reservados.
+
+Este proyecto es software propietario. No está permitido copiar, modificar, distribuir o utilizar este software, total o parcialmente, sin la autorización previa y por escrito del autor.
+
+---
