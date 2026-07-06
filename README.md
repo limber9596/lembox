@@ -111,14 +111,65 @@ Las ventas se representan como órdenes con estado "paid"
 
 ## 📸 Capturas del sistema
 
-- Dashboard principal
-- Gestión de hamburguesas
-- Inventario de ingredientes
-- Flujo de órdenes
-- Historial de ventas
-- Reportes
+### Inicio de sesión
 
----
+| 💻 Escritorio                 | 📱 Móvil                       |
+| ----------------------------- | ------------------------------ |
+| ![](docs/images/login_pc.png) | ![](docs/images/login_mob.png) |
+
+### Dashboard
+
+| 💻 Escritorio                     | 📱 Móvil                           |
+| --------------------------------- | ---------------------------------- |
+| ![](docs/images/dashboard_pc.png) | ![](docs/images/dashboard_mob.png) |
+
+### Usuarios
+
+| 💻 Escritorio                 | 📱 Móvil                       |
+| ----------------------------- | ------------------------------ |
+| ![](docs/images/users_pc.png) | ![](docs/images/users_mob.png) |
+
+### Catálogo de hamburguesas
+
+| 💻 Escritorio                   | 📱 Móvil                         |
+| ------------------------------- | -------------------------------- |
+| ![](docs/images/burgers_pc.png) | ![](docs/images/burgers_mob.png) |
+
+### Catálogo de ingredientes
+
+| 💻 Escritorio                       | 📱 Móvil                             |
+| ----------------------------------- | ------------------------------------ |
+| ![](docs/images/ingredients_pc.png) | ![](docs/images/ingredients_mob.png) |
+
+### Catálogo de extras
+
+| 💻 Escritorio                  | 📱 Móvil                        |
+| ------------------------------ | ------------------------------- |
+| ![](docs/images/extras_pc.png) | ![](docs/images/extras_mob.png) |
+
+### Catálogo de items
+
+| 💻 Escritorio                 | 📱 Móvil                       |
+| ----------------------------- | ------------------------------ |
+| ![](docs/images/items_pc.png) | ![](docs/images/items_mob.png) |
+
+### Mesas
+
+| 💻 Escritorio                 | 📱 Móvil                       |
+| ----------------------------- | ------------------------------ |
+| ![](docs/images/mesas_pc.png) | ![](docs/images/mesas_mob.png) |
+
+### Crear orden
+
+| 💻 Escritorio                   | 📱 Móvil                         |
+| ------------------------------- | -------------------------------- |
+| ![](docs/images/ordenes_pc.png) | ![](docs/images/ordenes_mob.png) |
+
+### Gestionar órdenes
+
+| 💻 Escritorio                    | 📱 Móvil                          |
+| -------------------------------- | --------------------------------- |
+| ![](docs/images/ordenes2_pc.png) | ![](docs/images/ordenes2_mob.png) |
 
 ## ⚙️ Módulos principales
 
